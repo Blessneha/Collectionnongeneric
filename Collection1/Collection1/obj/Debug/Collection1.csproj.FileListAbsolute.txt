@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Collection1\Collection1\bin\Debug\Collection1.exe.config
+C:\Users\HP\source\repos\Collection1\Collection1\bin\Debug\Collection1.exe
+C:\Users\HP\source\repos\Collection1\Collection1\bin\Debug\Collection1.pdb
+C:\Users\HP\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Collection1\Collection1\obj\Debug\Collection1.exe
+C:\Users\HP\source\repos\Collection1\Collection1\obj\Debug\Collection1.pdb
